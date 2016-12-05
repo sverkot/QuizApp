@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="edu.lewisu.cs.sangeetha.quizapp.QuestionFragment"
+    android:id="@+id/fragment_question">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/question_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/question_here"
+        android:paddingTop="10dp"
+        tools:text="@string/question_here"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:fontFamily="serif-monospace" />
+
+    <EditText
+        android:id="@+id/answer_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/enter_answer"
+        android:paddingTop="10dp"
+        android:inputType="textPersonName"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/check_answer_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:visibility="visible"
+        android:textColor="@color/colorPrimary"
+        android:text="@string/check_answer" />
+
+    <Button
+        android:id="@+id/exit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/exit_button"
+        android:layout_gravity="center_horizontal"/>
+
+
+
+</LinearLayout>

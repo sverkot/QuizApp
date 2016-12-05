@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="correct_textview">You are correct!</string>
+    <string name="score_label">Current Score:</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="enter_answer">Enter answer</string>
+    <string name="question_here">Question here</string>
+    <string name="not_correct">Sorry. Incorrect.</string>
+    <string name="answer_textview">TextView</string>
+    <string name="exit_button">Exit App</string>
+    <array name="questions">
+        <item>What is the capital of Afghanistan</item>
+
+        <item>What is the capital of Armenia</item>
+
+        <item>What is the capital of Azerbaijan</item>
+
+        <item>What is the capital of Bahrain</item>
+
+        <item>What is the capital of Bangladesh</item>
+
+        <item>What is the capital of Bhutan</item>
+
+        <item>What is the capital of Brunei</item>
+
+        <item>What is the capital of Cambodia</item>
+
+        <item>What is the capital of China</item>
+
+        <item>What is the capital of Taiwan</item>
+
+        <item>What is the capital of East Timor</item>
+
+        <item>What is the capital of India</item>
+
+        <item>What is the capital of Indonesia</item>
+
+        <item>What is the capital of Iran</item>
+
+        <item>What is the capital of Iraq</item>
+
+        <item>What is the capital of Israel</item>
+
+        <item>What is the capital of Palestine</item>
+
+        <item>What is the capital of Japan</item>
+
+        <item>What is the capital of Jordan</item>
+
+        <item>What is the capital of Kazakhstan</item>
+
+        <item>What is the capital of Kuwait</item>
+
+        <item>What is the capital of Kyrgyzstan</item>
+
+        <item>What is the capital of Laos</item>
+
+        <item>What is the capital of Lebanon</item>
+
+        <item>What is the capital of Malaysia</item>
+
+        <item>What is the capital of Maldives</item>
+
+        <item>What is the capital of Mongolia</item>
+
+        <item>What is the capital of Myanmar</item>
+
+        <item>What is the capital of Nepal</item>
+
+        <item>What is the capital of North Korea</item>
+
+        <item>What is the capital of Oman</item>
+
+        <item>What is the capital of Pakistan</item>
+
+        <item>What is the capital of Philippines</item>
+
+        <item>What is the capital of Qatar</item>
+
+        <item>What is the capital of Russia</item>
+
+        <item>What is the capital of Saudi Arabia</item>
+
+        <item>What is the capital of Singapore</item>
+
+        <item>What is the capital of South Korea</item>
+
+        <item>What is the capital of Sri Lanka</item>
+
+        <item>What is the capital of Syria</item>
+
+        <item>What is the capital of Tajikistan</item>
+
+        <item>What is the capital of Thailand</item>
+
+        <item>What is the capital of Taiwan</item>
+
+        <item>What is the capital of Turkey</item>
+
+        <item>What is the capital of Turkmenistan</item>
+
+        <item>What is the capital of United Arab Emirates</item>
+
+        <item>What is the capital of Uzbekistan</item>
+
+        <item>What is the capital of Vietnam</item>
+
+        <item>What is the capital of Yemen</item>
+
+    </array>
+    <array name="answers">
+
+        <item>Kabul</item>
+
+        <item>Yerevan</item>
+
+        <item>Baku</item>
+
+        <item>Manama</item>
+
+        <item>Dhaka</item>
+
+        <item>Thimphu</item>
+
+        <item>Bandar Seri Begawan</item>
+
+        <item>Phnom Penh</item>
+
+        <item>Beijing</item>
+
+        <item>Taipei</item>
+
+        <item>Dili</item>
+
+        <item>New Delhi</item>
+
+        <item>Jakarta</item>
+
+        <item>Tehran</item>
+
+        <item>Baghdad</item>
+
+        <item>Jerusalem</item>
+
+        <item>Jerusalem</item>
+
+        <item>Tokyo</item>
+
+        <item>Amman</item>
+
+        <item>Astana</item>
+
+        <item>Kuwait</item>
+
+        <item>Bishkek</item>
+
+        <item>Vientiane</item>
+
+        <item>Beirut</item>
+
+        <item>Kuala Lumpur</item>
+
+        <item>Malé</item>
+
+        <item>Ulaanbaatar</item>
+
+        <item>Naypyidaw</item>
+
+        <item>Kathmandu</item>
+
+        <item>Pyongyang</item>
+
+        <item>Muscat</item>
+
+        <item>Islamabad</item>
+
+        <item>Manila</item>
+
+        <item>Doha</item>
+
+        <item>Moscow</item>
+
+        <item>Riyadh</item>
+
+        <item>Singapore</item>
+
+        <item>Seoul</item>
+
+        <item>Colombo</item>
+
+        <item>Damascus</item>
+
+        <item>Dushanbe</item>
+
+        <item>Bangkok</item>
+
+        <item>Taipei</item>
+
+        <item>Ankara</item>
+
+        <item>Asgabat</item>
+
+        <item>Abu Dhabi</item>
+
+        <item>Tashkent</item>
+
+        <item>Hanoi</item>
+
+        <item>Sana’a</item>
+
+    </array>
+
+</resources>
